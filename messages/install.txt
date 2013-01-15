@@ -1,0 +1,20 @@
+Hey, thank you for installing Indent.txt!
+Let's learn how to use it.
+All you have to do...
+    Is create an indented hierarchy
+    Of your notes
+    In a list
+    And Indent.txt will turn it into a nice HTML file
+        With a ul hierarchy based on indent levels
+        *And simple
+        **formatting
+It's great for:
+    Note-taking
+    Outlining
+Try it now!
+    Bring up the command menu (Ctrl-Shift-P)
+    Find "Indent.txt: Parse"
+        If you've never used the command menu before: it'll come up if you start typing it
+    Run the command
+        You can also highlight a section of the page, and Indent.txt will only parse that portion.
+The Indent.txt homepage can be found at http://harrison-m.github.com/indent.txt
