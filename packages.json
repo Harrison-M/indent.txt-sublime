@@ -6,7 +6,7 @@
             "description": "A notetaking utility that turns an indented text document into a clean HTML outline inspired by Jade and Todo.txt",
             "author": "Harrison Massey",
             "homepage": "http://harrison-m.github.com/indent.txt/",
-            "last_modified": "2013-1-14 23:53:35",
+            "last_modified": "2013-1-18 00:31:51",
             "platforms": {
                 "*": [
                     {
