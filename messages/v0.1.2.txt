@@ -1,0 +1,3 @@
+Since GitHub's zip downloads don't include submodule code, the core code that makes this plugin work wasn't being included previously.
+
+If you've installed the plugin already, this update should fix everything.  Sorry!
