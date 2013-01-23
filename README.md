@@ -9,10 +9,11 @@ Turn your indented notes into HTML in Sublime Text 2
 3. The resulting HTML will open in a new tab.
 
 ## Formatting
-Examples of all formatting marks can be found in test.txt with the results in [output.html](https://github.com/Harrison-M/indent.txt/blob/master/output.html) in the main [Indent.txt](https://github.com/Harrison-M/indent.txt) repository
+Examples of most formatting marks can be found in test.txt with the results in [output.html](https://github.com/Harrison-M/indent.txt/blob/master/output.html) in the main [Indent.txt](https://github.com/Harrison-M/indent.txt) repository
 
 * Prefixing a line with a single asterisk (*) will wrap the item in an &lt;em&gt; tag
 * Prefixing a line with two asterisks (**) will wrap the item in a &lt;strong&gt; tag
+* Prefixing a line with two forward slashes (//) indicates a comment, excluding the line from the results.  This will eventually be used for metadata and parser instructions.
 
 ## Like Indent.txt?
 
