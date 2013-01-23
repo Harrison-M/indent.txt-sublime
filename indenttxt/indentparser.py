@@ -28,6 +28,10 @@ class IndentTxtParser:
             while(indentRE.match(line)):
                 line = indentRE.sub("", line)
                 newIndentLevel += 1
+            #Check for comment/metadata
+            if(line.find("//") == 0):
+                #TODO: Handle metadata comments
+                continue
             indentDiff = newIndentLevel - indentLevel
             #Indent
             if(indentDiff >= 1):
