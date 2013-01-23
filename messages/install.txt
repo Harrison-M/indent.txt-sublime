@@ -8,6 +8,7 @@ All you have to do...
         With a ul hierarchy based on indent levels
         *And simple
         **formatting
+        //This line will be left out of the result file
 It's great for:
     Note-taking
     Outlining
